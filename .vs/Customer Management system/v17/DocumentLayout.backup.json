@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Customer_Management_System\\Customer Management system\\",
+  "WorkspaceRootPath": "E:\\Customer_Management_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\customer management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\Customer Management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Customer Management system\\Form1.cs",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Customer Management system\\Form1.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Customer Management system\\Form1.cs",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Customer Management system\\Form1.cs [Design]",
+              "ToolTip": "E:\\Customer_Management_System\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T13:54:48.45Z",
