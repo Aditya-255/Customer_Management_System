@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Customer_Management_System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +30,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:29:02.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -39,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
