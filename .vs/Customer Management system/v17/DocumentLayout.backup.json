@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "E:\\Customer_Management_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,12 +38,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Form2.cs",
-              "RelativeToolTip": "Form2.cs",
+              "DocumentIndex": 0,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T11:54:00.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Login.cs",
+              "RelativeToolTip": "Login.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T11:42:16.264Z",
@@ -47,24 +63,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Form2.cs [Design]",
-              "RelativeToolTip": "Form2.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T11:29:02.455Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
+              "DocumentIndex": 4,
+              "Title": "Customer_management.cs",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.cs",
+              "RelativeDocumentMoniker": "Customer_management.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Customer_management.cs",
+              "RelativeToolTip": "Customer_management.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T06:09:34.566Z",
@@ -73,11 +89,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "Customer_management.cs [Design]",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.cs",
+              "RelativeDocumentMoniker": "Customer_management.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Customer_management.cs [Design]",
+              "RelativeToolTip": "Customer_management.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T13:54:48.45Z",
               "EditorCaption": " [Design]"
