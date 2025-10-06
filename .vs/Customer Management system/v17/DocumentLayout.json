@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\Customer_Management_System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|e:\\customer_management_system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\customer_management.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:customer_management.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -25,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|E:\\Customer_Management_System\\customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2EF1120-8EA0-452B-AC9B-3A702C469E45}|Customer Management system.csproj|solutionrelative:customer_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Customer_management.cs [Design]",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.cs",
+              "RelativeDocumentMoniker": "Customer_management.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Customer_management.cs [Design]",
+              "RelativeToolTip": "Customer_management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:54:48.45Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer_management.Designer.cs",
+              "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.Designer.cs",
+              "RelativeDocumentMoniker": "Customer_management.Designer.cs",
+              "ToolTip": "E:\\Customer_Management_System\\Customer_management.Designer.cs",
+              "RelativeToolTip": "Customer_management.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T04:45:15.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "E:\\Customer_Management_System\\Dashboard.cs",
               "RelativeDocumentMoniker": "Dashboard.cs",
@@ -66,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Register.cs [Design]",
               "DocumentMoniker": "E:\\Customer_Management_System\\Register.cs",
               "RelativeDocumentMoniker": "Register.cs",
@@ -84,35 +113,23 @@
               "RelativeDocumentMoniker": "Login.cs",
               "ToolTip": "E:\\Customer_Management_System\\Login.cs",
               "RelativeToolTip": "Login.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T11:42:16.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Customer_management.cs",
               "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.cs",
               "RelativeDocumentMoniker": "Customer_management.cs",
               "ToolTip": "E:\\Customer_Management_System\\Customer_management.cs",
               "RelativeToolTip": "Customer_management.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T06:09:34.566Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Customer_management.cs [Design]",
-              "DocumentMoniker": "E:\\Customer_Management_System\\Customer_management.cs",
-              "RelativeDocumentMoniker": "Customer_management.cs",
-              "ToolTip": "E:\\Customer_Management_System\\Customer_management.cs [Design]",
-              "RelativeToolTip": "Customer_management.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T13:54:48.45Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
