@@ -1,0 +1,14 @@
+E:\Customer_Management_System\bin\Debug\Customer Management system.exe.config
+E:\Customer_Management_System\bin\Debug\Customer Management system.exe
+E:\Customer_Management_System\bin\Debug\Customer Management system.pdb
+E:\Customer_Management_System\obj\Debug\Customer Management system.csproj.AssemblyReference.cache
+E:\Customer_Management_System\obj\Debug\Customer_Management_system.Form1.resources
+E:\Customer_Management_System\obj\Debug\Customer_Management_system.Dashboard.resources
+E:\Customer_Management_System\obj\Debug\Customer_Management_system.Login.resources
+E:\Customer_Management_System\obj\Debug\Customer_Management_system.Properties.Resources.resources
+E:\Customer_Management_System\obj\Debug\Customer_Management_system.Register.resources
+E:\Customer_Management_System\obj\Debug\Customer Management system.csproj.GenerateResource.cache
+E:\Customer_Management_System\obj\Debug\Customer Management system.csproj.CoreCompileInputs.cache
+E:\Customer_Management_System\obj\Debug\Customer Management system.exe
+E:\Customer_Management_System\obj\Debug\Customer Management system.pdb
+E:\Customer_Management_System\obj\Debug\Customer Management system.exe.config
